@@ -55,9 +55,9 @@ Changelog:
 </remarks>
 \**--------------------------------------------------------------------------**/
 
-#include "..\YSI-Internal\y_version"
-#include "..\YSI-Core\y_utils"
-#include "..\YSI-Core\y_debug"
+#include "..\YSI_Internal\y_version"
+#include "..\YSI_Core\y_utils"
+#include "..\YSI_Core\y_debug"
 //#include "y_rewrite"
 
 // Helper macro so people don't need to enter all the sizes all the time.
